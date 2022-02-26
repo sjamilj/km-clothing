@@ -1,0 +1,72 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.bg-lightblue{
+background-color: #e2ecf3;
+border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px;
+}
+.price{
+    color: #f3b606;
+    border-radius: 10px;
+}
+.buy-now-button{
+    background-color: #4b4f51;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: #4b4f51 ;
+}
+.cat2{
+    background-color: #f3b606;
+}
+.cat3{
+    background-color: #e2ecf3;
+}
+.categories h1{
+    color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.pants img{
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.t-shirts img{
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.shirts img{
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+#contactus{
+    height: 300px;
+
+}
+#contactus h5{
+    color: #f3b606;
+}
+footer{
+text-align: center;
+}
